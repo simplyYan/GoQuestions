@@ -1,2 +1,2 @@
 # Editar pelo VSCODE
-Edite agora pelo VSCODE clicando [AQUI](vscode://)
+Edite agora pelo VSCODE: vscode://
