@@ -1,2 +1,2 @@
 # GoQuestions
-Go examples
+A solução da maioria dos problemas ou dúvidas de Go, está neste repositório. Eu mesmo uso este repositório, e adiciono nele tudo que aprendo.
